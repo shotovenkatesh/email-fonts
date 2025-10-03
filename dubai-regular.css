@@ -1,0 +1,10 @@
+@font-face{
+  font-family:'Dubai Regular';
+  font-style:normal;
+  font-weight:400;
+  font-display:swap;
+  src:
+    url('https://cdn.jsdelivr.net/gh/shotovenkatesh/email-fonts/DUBAI-REGULAR.woff2') format('woff2'),
+    url('https://cdn.jsdelivr.net/gh/shotovenkatesh/email-fonts/DUBAI-REGULAR.woff') format('woff'),
+    url('https://cdn.jsdelivr.net/gh/shotovenkatesh/email-fonts/DUBAI-REGULAR.TTF') format('truetype');
+}
