@@ -1,0 +1,10 @@
+@font-face{
+  font-family:'Dubai Bold';
+  font-style:normal;
+  font-weight:700;
+  font-display:swap;
+  src:
+    url('https://cdn.jsdelivr.net/gh/shotovenkatesh/email-fonts/DUBAI-BOLD.woff2') format('woff2'),
+    url('https://cdn.jsdelivr.net/gh/shotovenkatesh/email-fonts/DUBAI-BOLD.woff') format('woff'),
+    url('https://cdn.jsdelivr.net/gh/shotovenkatesh/email-fonts/DUBAI-BOLD.TTF') format('truetype');
+}
