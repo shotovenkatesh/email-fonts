@@ -1,0 +1,10 @@
+@font-face{
+  font-family:'Dubai Light';
+  font-style:normal;
+  font-weight:300;
+  font-display:swap;
+  src:
+    url('https://cdn.jsdelivr.net/gh/shotovenkatesh/email-fonts/DUBAI-LIGHT.woff2') format('woff2'),
+    url('https://cdn.jsdelivr.net/gh/shotovenkatesh/email-fonts/DUBAI-LIGHT.woff') format('woff'),
+    url('https://cdn.jsdelivr.net/gh/shotovenkatesh/email-fonts/DUBAI-LIGHT.TTF') format('truetype');
+}
